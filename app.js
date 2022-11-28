@@ -102,13 +102,13 @@ app.use(function (req, res, next) {
     });
   }
 });
-CFonts.say('Zekais API', {
+CFonts.say('Ryanz API', {
   font: 'block',
   align: 'center',
   gradient: ['red', 'magenta']
 })
 
-CFonts.say(`Recode By David`, {
+CFonts.say(`Recode By YanzOfc`, {
   font: 'console',
   align: 'center',
   gradient: ['blue', 'yellow']
